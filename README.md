@@ -6,7 +6,7 @@
 - `cd` to folder `DXTAssignment`
 - run `mvn package`
 - run `mvn exec:java` to run program without arguments
-- run `mvn exec:java`-Dexec.args="csv" to run program with some arguments
+- run `mvn exec:java -Dexec.args="csv"` to run program with some arguments
 
 ## 2. using the .jar file:
 
